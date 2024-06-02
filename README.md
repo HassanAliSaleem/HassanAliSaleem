@@ -1,15 +1,16 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Hassan Ali , a Developer 🚀 from Pakistan .</h1>
-<img alt="character coding"  width="300"  align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+<img alt="character coding"  width="300"  align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HassanAliSaleem&label=Profile%20views&color=0e75b6&style=flat" alt="HassanAliSaleem" /> </p>
 <h3 align="center">A WEB DEVELOPMENT Enthusiast 🚀.</h3>
 
 - I’m currently learning **Full Stack Development**
-- **👨🏽‍💻 I’m currently a Software Engineering Undergrad student at UET Taxila
-- I’m currently exploring JavaScript & React 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently a Software Engineering Undergrad student at University of Engineering and Technology Taxila.
+- 💻 Currently juggling JavaScript and React like a circus clown with too many balls. 🤹‍♂️
+- 🤔 Front-end web development is where my passion thrives.
 - 💬 Ask me about anything, I love to answer!**
 - 📫 How to reach me **ha1215819@gmail.com**
+
 
 <div> <a href="https://www.linkedin.com/in/Hassan Ali " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/HassanAliSaleem" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -43,6 +44,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+&nbsp;
+&nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="left"><em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanAliSaleem&show_icons=true&locale=en&theme=dark" alt="HassanAliSaleem" /></p>
 
